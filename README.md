@@ -33,6 +33,6 @@ Avaliação
 Organização do código
 Boas práticas
 Documentação
-Para enviar suas soluções, crie um repositório público no github e envie o link para thalesteodoro75@gmail.com e gabriel.d.macahado@ufv.br:
+Para enviar suas soluções, crie um repositório público no github e envie o link para thalesteodoro75@gmail.com e gabriel.d.machado@ufv.br:
 
 Estamos ansiosos para ver como você lida com esses desafios! Boa sorte! 🤖🚀
