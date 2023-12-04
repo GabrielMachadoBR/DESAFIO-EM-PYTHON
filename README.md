@@ -12,7 +12,7 @@ Este repositório contém 3 desafios para avaliar suas habilidades com a linguag
 - *Desafio 02*: Análise e visualização de dados
   - Objetivo: nesse desafio você deve demonstrar suas habilidades em extrair informações de um conjunto de dados e visualizá-los.
 
-  - Instruções: no diretório Entrada há um arquivo .xlsx com informações de vendas ao longo do tempo. Utilizando as bibbliotecas para análise/visualização de dados do Python, execute as seguintes análises:
+  - Instruções: no diretório principal há um arquivo .xlsx com informações de vendas ao longo do tempo. Utilizando as bibliotecas para análise/visualização de dados do Python, execute as seguintes análises:
    1. Calcule estatísticas descritivas, como média, mediana, mínimo, máximo do número de vendas. Salve o resultado em um arquivo .txt no diretório Saida/desafio02.
    
    2. Utilize bibliotecas como matplotlib ou seaborn, para criar gráficos visuais que representem os dados. Utilize o tipo de gráfico que você achar mais relevante. Salve o gráfico em Saida/desafio02
