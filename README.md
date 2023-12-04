@@ -27,7 +27,7 @@ Objetivo: avaliar a capacidade de escalar dados para melhorar a eficiência do t
 Instruções: escale a coluna de número de vendas da planilha anterior para melhorar a eficiência do treinamento do modelo. Utilize a biblioteca scikit-learn para essa padronização.
 
 Separe 80% do conjunto de dados para treino e o restante para teste.
-Escale(padronize) o dado de treino e teste.
+Escale (padronize) o dado de treino e teste.
 Crie uma arquitetura de rede neural para o problema de previsão de vendas.
 Avaliação
 Organização do código
