@@ -1,4 +1,4 @@
-# DESAFIOS-EM-PHYTON
+# DESAFIO-EM-PHYTON
 
 Bem-vindo(a) a seleção para a vaga de desenvolvedor Python com foco em inteligência artificial!
 Este repositório contém 3 desafios para avaliar suas habilidades com a linguagem Python de resolver problemas. 
